@@ -1,0 +1,120 @@
+* {
+  border: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-image: linear-gradient(115deg, #3a3a9ecc, #8888ceb3), url("../images/feather.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header {
+  color: #fff;
+  text-align: center;
+  font-size: 2.3rem;
+  font-family: sans-serif;
+  margin-top: 4rem;
+}
+
+.header-1 {
+  color: #fff;
+  text-align: center;
+  font-style: italic;
+  font-size: large;
+  margin: 15px 0 20px;
+}
+
+form {
+  background-color: #1b1b32cc;
+  width: 95vw;
+  max-width: 700px;
+  height: fit-content;
+  margin: auto;
+  padding: 0.7rem 0 3rem;
+  color: #fff;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 100%;
+  padding: 0 10px;
+  height: 40px;
+  border-radius: 3.7px;
+  margin-bottom: 15px;
+  word-break: normal;
+}
+
+.section1 {
+  width: 90%;
+  margin: 1rem auto;
+  line-height: 40px;
+}
+
+.section1 label {
+  font-size: 1.5rem;
+}
+
+.recommend {
+  width: 90%;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+  font-size: 1.5rem;
+}
+
+.fav-feature {
+  width: 90%;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+  font-size: 1.5rem;
+}
+
+.checkbox {
+  width: 90%;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+  font-size: 1.5rem;
+}
+
+.checkbox .tickbox {
+  height: 1.3rem;
+  width: 20px;
+  margin-left: 0;
+}
+
+.last {
+  width: 90%;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+}
+
+textarea {
+  border-radius: 3.7px;
+  border: none;
+  height: 100px;
+  max-width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.submit {
+  background-color: #37af65;
+  width: 100%;
+  height: 50px;
+  color: #fff;
+  border-radius: 2px;
+  border: none;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
