@@ -7,7 +7,7 @@
 This project is a simple survery form for freeCodeCamp.
 
 ## BUILT WITH
-This page is built with 
+This page is built with
 * HTML and
 * CSS.
 
