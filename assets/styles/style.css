@@ -5,8 +5,8 @@
 
 body {
   font-family: sans-serif;
-  background-image: 
-  linear-gradient(115deg, #3a3a9ecc, #8888ceb3),url("../images/feather.jpg");
+  background-image:
+    linear-gradient(115deg, #3a3a9ecc, #8888ceb3), url("../images/feather.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -46,7 +46,7 @@ form {
   height: 40px;
   border-radius: 3.7px;
   margin-bottom: 15px;
-  word-break: normal;
+  word-break: break-all;
 }
 
 .section1 {
@@ -119,3 +119,4 @@ textarea {
   font-size: 1.2rem;
   margin-top: 2rem;
 }
+
