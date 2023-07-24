@@ -41,5 +41,5 @@ Feel free to check the [issues page](https://github.com/boanong/survey-page/issu
 - GitHub: [@boanong](https://github.com/BoanongJoshua)
 
 ## License
-This project is [w3school](./LICENSE) licensed. This project was made by "JOSh"
+This is a [w3school](./LICENSE) licensed project. This project was made by "JOSh"
 
