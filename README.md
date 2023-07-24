@@ -4,7 +4,7 @@
 ![home page](assets/images/surveyform.PNG)
 
 ## About
-This project is a simple survery form for freeCodeCamp.
+This project is a simple survery form for freeCodeCamp. It is aimed at helping us better understand html and css concepts
 
 ## BUILT WITH
 This page is built with
